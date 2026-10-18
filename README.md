@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/platform-web%20%7C%20iOS%20%7C%20Android-242938?style=flat-square)](#roadmap)
 [![TypeScript](https://img.shields.io/badge/TypeScript-planned-3178C6?style=flat-square&logo=typescript&logoColor=white)](#planned-tech-stack)
 
-*Plan smarter. Stay focused. See your progress.*
+*Plan smarter. Stay focused. See your progress. *
 
 </div>
 
